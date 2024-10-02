@@ -1,4 +1,4 @@
-# MusiX
+# MusiX - Android Music Player
 
 A music player created because I got bored with Huawei's pre-installed app.<br />This app is not a brainchild of mine but was taken from a [course](https://www.youtube.com/playlist?list=PLwQLA73lSe1RfjMzbRLoIkcIJBu25FnVJ) I found online. This repository only serves as a cloud where I can go to retrieve this project or apk in the future.
 
