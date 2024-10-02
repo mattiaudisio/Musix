@@ -10,17 +10,8 @@ Download apk file [here](https://gitlab.com/keyezen/musix/-/raw/main/app-debug.a
 
 # Screenshots
 
-<img src="https://gitlab.com/keyezen/musix/-/raw/main/image_for_github/photo_2022-03-28_19-02-42.png?ref_type=heads"
-     alt=""
-     height="400">
-<img src="https://gitlab.com/keyezen/musix/-/raw/main/image_for_github/photo_2022-03-28_19-02-43.png?ref_type=heads"
-     alt=""
-     height="400">
-     
-     
-<img src="https://gitlab.com/keyezen/musix/-/raw/main/image_for_github/photo_2022-03-28_19-02-44%20(2).png?ref_type=heads"
-     alt=""
-     height="400">
-<img src="https://gitlab.com/keyezen/musix/-/raw/main/image_for_github/photo_2022-03-28_19-02-44.png?ref_type=heads"
-     alt=""
-     height="400">
+<img align="left" src="https://raw.githubusercontent.com/mattiaudisio/Musix/refs/heads/main/image_for_github/photo_2022-03-28_19-02-42.png" alt="" height="400">
+<img align="left" src="https://github.com/mattiaudisio/Musix/blob/main/image_for_github/photo_2022-03-28_19-02-44%20(2).png?raw=true" alt="" height="400">
+<img align="left" src="https://github.com/mattiaudisio/Musix/blob/main/image_for_github/photo_2022-03-28_19-02-44.png?raw=true" alt="" height="400">
+<br /><br /><br />
+<img align="left" src="https://github.com/mattiaudisio/Musix/blob/main/image_for_github/photo_2022-03-28_19-02-43.png?raw=true" alt="" height="400">
